@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a basic data analysis project to review the basic SQL and Python code for a Data Analyst/ Data Engineer position.
+- 🌱 I’m currently learning Typescript.
+- 👯 I’m looking to collaborate on research papers.
+- 🤔 I’m looking for help with ideas and tools to help learning code faster.
+- 💬 Ask me about team forming for a project.
+- 📫 How to reach me: Phone Number | What's App | Facebook
+- 😄 Pronouns: He/ Him/ His.
+- ⚡ Fun fact: I love travelling, reading, listening to music, thinking, eating ice cream, and arranging things ( I'm quite OCD, haha).
+ 

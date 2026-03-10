@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about team forming for a project.
 - 📫 How to reach me: Phone Number | What's App | Facebook
 - 😄 Pronouns: He/ Him/ His.
-- ⚡ Fun fact: I love travelling, reading, listening to music, thinking, eating ice cream, and arranging things ( I'm quite OCD, haha).
+- ⚡ Fun fact: I love travelling, reading, listening to music, thinking, eating ice cream, and arranging things (I'm quite OCD).
  
